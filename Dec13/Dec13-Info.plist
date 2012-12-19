@@ -34,5 +34,16 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>edu.nyu.scps.Dec13</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>Dec13</string>
+            </array>
+        </dict>
+    </array>
 </dict>
 </plist>
